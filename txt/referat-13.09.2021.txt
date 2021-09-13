@@ -2,7 +2,7 @@ Referat KS-møte 23.09.2021
 
 0. Koppestatistikk
 
-0.1 3+*
+    0.1 3+*
 
 1. GAI, GAD, GAR, GAK, GAK, GARD
 
